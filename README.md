@@ -1,11 +1,9 @@
 ![MasterHead](https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
 <h1 align="center">Hi 👋, I'm Phatan Mohammad Imran Khan</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
-<img align="right" alt='Coding' width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" />
+<img align="right" alt='Coding' width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmeimran&label=Profile%20views&color=0e75b6&style=flat" alt="itzmeimran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmeimran" alt="itzmeimran" /></a> </p>
 
 - 💬 Ask me about **DSA, reactjs, nodejs, nextjs, graphQL, prisma**
 - 📫 How to reach me **ikik790@protonmail.com**
